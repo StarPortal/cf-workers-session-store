@@ -3,6 +3,12 @@ Cloudflare Workers Session Store
 
 This package provides a Rails-like session store.
 
+## Installation
+
+```bash
+npm install @starportal/cf-workers-session-store
+```
+
 ## Usage
 
 ### createCookieStore
