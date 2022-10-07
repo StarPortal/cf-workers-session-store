@@ -32,7 +32,7 @@ export const onRequest = [sessionStore, userFinder];
 
 ### IStore
 
-The interface implement `put` and `get` which has same interface with `KVNamespace`
+The interface implements `put` and `get` which have same interface as `KVNamespace`
 
 ```ts
 // Write
